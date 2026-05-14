@@ -1,0 +1,7 @@
+McNemar Test — DAASViT vs ViT-Tiny
+========================================
+b (DAAS only correct) : 600
+c (ViT only correct) : 546
+Statistic : 2.4511
+p-value : 0.1174
+Significant : False

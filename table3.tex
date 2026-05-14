@@ -1,0 +1,17 @@
+\begin{table}
+\caption{Ablation study.}
+\label{tab:ablation}
+\begin{tabular}{lrr}
+\toprule
+Variant & Accuracy & Δ vs Full \\
+\midrule
+A1: Full DAASViT & 75.970000 & 0.000000 \\
+A2: No DAAS loss & 76.370000 & 0.400000 \\
+A3: No pretraining & 51.520000 & -24.450000 \\
+A4: λ=0.05 (DAAS low) & 76.070000 & 0.100000 \\
+A5: λ=0.5  (DAAS high) & 76.570000 & 0.600000 \\
+A6: No label smoothing & 75.930000 & -0.040000 \\
+A7: Label smooth=0.2 & 77.170000 & 1.200000 \\
+\bottomrule
+\end{tabular}
+\end{table}

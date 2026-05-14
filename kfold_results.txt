@@ -1,0 +1,6 @@
+3-Fold Cross Validation Results
+========================================
+DAASViT : 79.35% ± 0.34%
+ViT-Tiny : 79.05% ± 0.30%
+Delta : +0.30%
+Wilcoxon p-value : 0.5000
