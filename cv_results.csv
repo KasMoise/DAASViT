@@ -1,0 +1,3 @@
+Model,Acc,p-val
+DAASViT (Ours),79.36±1.04%,—
+ViT-Tiny,79.05±0.91%,0.5000 n.s.
